@@ -1,0 +1,64 @@
+COMPREHENSIVE CALIBRATION SURVEY STATISTICS
+==================================================
+
+Calibration Survey: Cal_0m_351deg
+Export Date: 2026-03-05 12:28:06
+
+Survey Speed: 8.0 knots
+Turn Time (per turn): 5.0 min
+
+SURVEY LINE DISTANCES AND TIMES
+-----------------------------------
+Pitch Line (2 passes):
+  Heading: 47.2°
+  Reciprocal Heading: 227.3°
+  Distance (per pass): 8147.1 m (8.147 km, 4.399 nm)
+  Time (total): 71.0 min
+
+Roll Line (2 passes):
+  Heading: 318.1°
+  Reciprocal Heading: 138.1°
+  Distance (per pass): 7996.6 m
+  Time (total): 69.8 min
+
+Heading Line 1: 8147.1 m, 33.0 min
+
+Heading Line 2: 8147.1 m, 33.0 min
+
+TRAVEL DISTANCES AND TIMES
+------------------------------
+Pitch → Roll: 4680.2 m, 24.0 min
+
+Roll → Heading1: 5049.5 m, 25.4 min
+
+Heading1 → Heading2: 8465.3 m, 39.3 min
+
+TOTAL SURVEY SUMMARY
+-------------------------
+Total Distance: 66776.5 m (66.777 km, 36.056 nm)
+Total Survey Time: 196.7 min (3.28 hr)
+Total Transit Time: 73.7 min (1.23 hr)
+Total Turn Time: 25.0 min (5 turns × 5.0 min)
+Total Time: 295.4 min (4.92 hr)
+
+Calibration Waypoints (DMM)
+---------------------------
+Pitch Start: 39°24.177'N, 071°55.047'W
+Pitch End: 39°27.167'N, 071°50.880'W
+Roll Start: 39°22.889'N, 071°57.852'W
+Roll End: 39°26.106'N, 072°01.573'W
+Heading1 Start: 39°23.722'N, 071°54.503'W
+Heading1 End: 39°26.711'N, 071°50.336'W
+Heading2 Start: 39°24.633'N, 071°55.591'W
+Heading2 End: 39°27.624'N, 071°51.424'W
+
+Calibration Waypoints (DDD)
+---------------------------
+Pitch Start: 39.402958, -71.917451
+Pitch End: 39.452789, -71.847992
+Roll Start: 39.381491, -71.964207
+Roll End: 39.435099, -72.026217
+Heading1 Start: 39.395360, -71.908386
+Heading1 End: 39.445185, -71.838927
+Heading2 Start: 39.410556, -71.926519
+Heading2 End: 39.460392, -71.857059
