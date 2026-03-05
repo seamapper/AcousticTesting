@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.913448858,
+            39.778577117
+          ],
+          [
+            -66.934580423,
+            39.885420891
+          ]
+        ]
+      },
+      "properties": {
+        "line_num": 1,
+        "line_name": "Pitch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.891522723,
+            39.781153037
+          ],
+          [
+            -66.912620704,
+            39.887999901
+          ]
+        ]
+      },
+      "properties": {
+        "line_num": 2,
+        "line_name": "Heading1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.935373533,
+            39.775997008
+          ],
+          [
+            -66.956538669,
+            39.882837676
+          ]
+        ]
+      },
+      "properties": {
+        "line_num": 3,
+        "line_name": "Heading2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.865508602,
+            39.733426461
+          ],
+          [
+            -66.844520227,
+            39.626571576
+          ]
+        ]
+      },
+      "properties": {
+        "line_num": 4,
+        "line_name": "Roll"
+      }
+    }
+  ]
+}
